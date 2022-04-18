@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Krishna-KGD
+- 👋 Hi, I’m Krishna Gopal Das
 - 👀 I’m interested in Data analytics
 - 🌱 I’m currently learning data analytics
 - 📫 How to reach me - https://www.linkedin.com/in/krishna-gopal-das-b25969202/
